@@ -1,0 +1,1 @@
+Esta é a atividade prática obrigatória 4, para utilização do Git.
